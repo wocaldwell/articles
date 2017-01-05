@@ -1,0 +1,128 @@
+/*************************************
+ Article Styling
+*************************************/
+
+#article1 {
+    background-color: #8F1A7A;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5em;
+    line-height: 4em;
+    padding: 1% 2% 5% 6%;
+    border-radius: 3%;
+}
+
+#article2 {
+    background-color: #3C8F36;
+    font-family: 'Arima Madurai', cursive;
+    font-size: 1em;
+    line-height: 1.5em;
+    padding: 5% 1%;
+    border-radius: 15% 50%;
+}
+
+#article3 {
+    background-color: #30348F;
+    font-family: 'Kumar One', cursive;
+    font-size: 2em;
+    line-height: 1em;
+    padding: 1% 5%;
+    border-radius: 25%;
+}
+
+#article4 {
+    background-color: #CED42F;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 0.75em;
+    line-height: 2em;
+    padding: 5%;
+    border-radius: 15% 50% 50% 15%;
+}
+
+#article5 {
+    background-color: #89818F;
+    font-family: 'Slabo 27px', serif;
+    font-size: 0.2em;
+    line-height: 3em;
+    padding: 1%;
+    border-radius: 100%;
+}
+
+/*************************************
+ Article 1 font color
+*************************************/
+
+#article1 h2 {
+    color: #988a00;
+}
+
+#article1 p {
+    color: #ffe700;
+}
+
+#article1 h6 {
+    color: #4C4500;
+}
+
+/*************************************
+ Article 2 font color
+*************************************/
+
+#article2 h2 {
+    color: #5f5e57;
+}
+
+#article2 p {
+    color: #9f9d92;
+}
+
+#article2 h6 {
+    color: #2f2f2b;
+}
+
+/*************************************
+ Article 3 font color
+*************************************/
+
+#article3 h2 {
+    color: #037992;
+}
+
+#article3 p {
+    color: #05caf4;
+}
+
+#article3 h6 {
+    color: #013c49;
+}
+
+/*************************************
+ Article 4 font color
+*************************************/
+
+#article4 h2 {
+    color: #0f0392;
+}
+
+#article4 p {
+    color: #1905f4;
+}
+
+#article4 h6 {
+    color: #070149;
+}
+
+/*************************************
+ Article 5 font color
+*************************************/
+
+#article5 h2 {
+    color: #92032e;
+}
+
+#article5 p {
+    color: #f4054d;
+}
+
+#article5 h6 {
+    color: #490117;
+}
